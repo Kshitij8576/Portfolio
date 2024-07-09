@@ -597,3 +597,201 @@
 
 
 }
+
+@media (max-width: 410px) {
+
+    .navob{
+        display: none !important;
+    }
+
+    .main{
+        width: 100% !important;
+        left: 0 !important;
+    }
+
+    .section1 .mylog{
+        display: contents !important;
+        width: 20vw !important;
+    }
+
+    .section1 .mylog img{
+        position: inherit !important;
+        width: 20vw !important;
+        left: 7vw !important;
+        top: 5vw !important;
+        z-index: 1 !important;
+    }
+
+    .section1 .mylog .logor{
+        width: 7vw !important;
+        height: 7vw !important;
+        position: absolute !important;
+        left: 3vw !important;
+        top: 20vw !important;
+        border-bottom: 4px solid #FF4D00 !important;
+        border-left: 4px solid #FF4D00 !important;
+        z-index: 2 !important;
+    }
+    
+    .section1 .mylog .logol{
+        width: 7vw !important;
+        height: 7vw !important;
+        position: absolute !important;
+        left: 24vw !important;
+        top: 2vw !important;
+        border-top: 4px solid #FF4D00 !important;
+        border-right: 4px solid #FF4D00 !important;
+        z-index: 2 !important;
+    }
+
+    .section1 .info1{
+        top: 25% !important;
+    }
+
+    .section1 h2{
+        font-size: 4.5vh !important;
+    }
+
+     .section1 h2 span{
+        font-size: 5vh !important;
+    }
+
+    .section1 p{
+        font-size: 1.5rem !important;
+    }
+
+    .section1 button{
+        font-size: 2.5vh !important;
+        margin-top: 20px !important;
+    }
+
+    .section2{
+        height: 140vh !important;
+    }
+
+    .section2 h2{
+        font-size: 3.4vh !important;
+        padding-left: 5px;
+    }
+
+    .section2 h2 span{
+        font-size: 4.5vh !important;
+    }
+
+    .section2 p{
+        font-size: 2.3vh !important;
+        width: 90% !important;
+    }
+
+    .section2 h3{
+        font-size: 1rem !important;
+    }
+
+    .section2 .detail{
+        display: block !important;
+    }
+
+    .section2 .det1{
+        scale: 1 !important;
+        margin-left: 25px !important;
+        width: 80% !important;
+    }
+
+    .section2 .det1 .det p{
+        width: 60% !important;
+        font-size: 1vw;
+    }
+
+    .section2 .det2 .det p{
+        width: 60% !important;
+        font-size: 1vw;
+    }
+
+    .section2 .det2{
+        scale: 1 !important;
+        margin-top: 3rem !important;
+        margin-left: 25px !important;
+        width: 80% !important;
+    }
+
+    .section3{
+        height: 210vh !important;
+    }
+
+    .section3 .secgri{
+        grid-template-rows: repeat(6, minmax(0, 1fr)) !important;
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+        height: 90% !important;
+    }
+
+    .section3 .box{
+        width: 100% !important;
+    }
+
+    .section3 .icon{
+        height: 8rem !important;
+    }
+
+    .section4{
+        height: 150vh !important;
+    }
+
+    .section4 .sec4gri{
+        grid-template-rows: repeat(4, minmax(0, 1fr)) !important;
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+        height: 90% !important;
+    }
+
+    .section4 .sec4gri .box{
+        height: 80% !important;
+    }
+
+    form .intfom{
+        width: 93% !important;
+    }
+
+    form .intfom0{
+        width: 93% !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .section5{
+        height: 180vh !important;
+    }
+
+    .section5 .sec5gri{
+        width: 90vw !important;
+        gap: 20px;
+    }
+
+    .section5 .sec5gri .congri{
+        width: 90% !important;
+        font-size: 2vh !important;
+    }
+
+    .section5 .sec5gri .congri .conico{
+        font-size: 3vh !important;
+    }
+
+    .section5 .sec5gri .congri .contex{
+        font-size: 1.5vh !important;
+    }
+
+    .section5 .sec5gri .congri .contex0{
+        font-size: 1.1vh !important;
+    }
+
+    .section5 .ques{
+        margin-top: 3rem !important;
+    }
+
+    .section5 form .fomh{
+        font-size: 2vh !important;
+    }
+
+    .section4 .sec4gri .box{
+        width: 100% !important;
+    }
+
+
+}
