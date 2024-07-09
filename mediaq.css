@@ -1,0 +1,397 @@
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    .section1 .info1{
+        top: 30%;
+    }
+
+    .section1 h2{
+        font-size: 2.5rem;
+    }
+
+     .section1 h2 span{
+        font-size: 2.8rem;
+    }
+
+    .section1 p{
+        font-size: 1.4rem;
+    }
+
+    .section1 button{
+        font-size: 1.7rem;
+        margin-top: 20px;
+    }
+
+
+    .section2 h2{
+        font-size: 1.8rem;
+    }
+
+    .section2 h2 span{
+        font-size: 2rem;
+    }
+
+    .section2 p{
+        font-size: 0.85rem;
+    }
+
+    .section2 h3{
+        font-size: 1rem;
+    }
+
+    .section2 .det1{
+        scale: 1.1;
+        margin-left: 25px;
+        width: 40%;
+    }
+
+    .section2 .det2{
+        scale: 1.1;
+        margin-left: 30px;
+        width: 40%;
+    }
+
+    .section3 .secgri{
+        grid-template-rows: repeat(3, minmax(0, 1fr));
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .section3 .icon{
+        height: 6rem;
+    }
+
+    .section4{
+        height: 200vh;
+    }
+
+    .section4 .sec4gri{
+        grid-template-rows: repeat(4, minmax(0, 1fr));
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        height: 90%;
+    }
+
+    form .intfom{
+        width: 99%;
+    }
+
+    form .intfom0{
+        width: 99%;
+        margin-bottom: 1rem;
+    }
+
+    .section5{
+        height: 130vh;
+    }
+
+    .section4 .sec4gri .box{
+        width: 100%;
+    }
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .navob{
+        display: none;
+    }
+
+    .main{
+        width: 100%;
+        left: 0;
+    }
+
+    .section1 .mylog{
+        display: contents;
+        width: 20vw;
+    }
+
+    .section1 .mylog img{
+        position: inherit;
+        width: 15vw;
+        left: 5vw;
+        top: 3vw;
+        z-index: 1;
+    }
+
+    .section1 .mylog .logor{
+        width: 7%;
+        height: 7%;
+        position: absolute;
+        left: 2%;
+        top: 12vw;
+        border-bottom: 8px solid #FF4D00;
+        border-left: 8px solid #FF4D00;
+        z-index: 2;
+    }
+    
+    .section1 .mylog .logol{
+        width: 7%;
+        height: 7%;
+        position: absolute;
+        left: 15%;
+        top: 1vw;
+        border-top: 8px solid #FF4D00;
+        border-right: 8px solid #FF4D00;
+        z-index: 2;
+    }
+
+    .section1 .info1{
+        top: 30%;
+    }
+
+    .section1 h2{
+        font-size: 2.5rem;
+    }
+
+     .section1 h2 span{
+        font-size: 2.8rem;
+    }
+
+    .section1 p{
+        font-size: 1.4rem;
+    }
+
+    .section1 button{
+        font-size: 1.7rem;
+        margin-top: 20px;
+    }
+
+
+    .section2 h2{
+        font-size: 1.8rem;
+    }
+
+    .section2 h2 span{
+        font-size: 2rem;
+    }
+
+    .section2 p{
+        font-size: 0.85rem;
+    }
+
+    .section2 h3{
+        font-size: 1rem;
+    }
+
+    .section2 .det1{
+        scale: 1.1;
+        margin-left: 25px;
+        width: 40%;
+    }
+
+    .section2 .det2{
+        scale: 1.1;
+        margin-left: 30px;
+        width: 40%;
+    }
+
+    .section3 .secgri{
+        grid-template-rows: repeat(3, minmax(0, 1fr));
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .section3 .icon{
+        height: 6rem;
+    }
+
+    .section4{
+        height: 250vh;
+    }
+
+    .section4 .sec4gri{
+        grid-template-rows: repeat(4, minmax(0, 1fr));
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        height: 90%;
+    }
+
+    form .intfom{
+        width: 97%;
+    }
+
+    form .intfom0{
+        width: 97%;
+        margin-bottom: 1rem;
+    }
+
+    .section5{
+        height: 130vh;
+    }
+
+    .section5 .sec5gri{
+        width: 90vw;
+    }
+
+    .section4 .sec4gri .box{
+        width: 100%;
+    }
+    
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .navob{
+        display: none;
+    }
+
+    .main{
+        width: 100%;
+        left: 0;
+    }
+
+    .section1 .mylog{
+        display: contents;
+        width: 20vw;
+    }
+
+    .section1 .mylog img{
+        position: inherit;
+        width: 15vw;
+        left: 5vw;
+        top: 3vw;
+        z-index: 1;
+    }
+
+    .section1 .mylog .logor{
+        width: 7vw;
+        height: 7vw;
+        position: absolute;
+        left: 2%;
+        top: 12vw;
+        border-bottom: 8px solid #FF4D00;
+        border-left: 8px solid #FF4D00;
+        z-index: 2;
+    }
+    
+    .section1 .mylog .logol{
+        width: 7vw;
+        height: 7vw;
+        position: absolute;
+        left: 15%;
+        top: 1vw;
+        border-top: 8px solid #FF4D00;
+        border-right: 8px solid #FF4D00;
+        z-index: 2;
+    }
+
+    .section1 .info1{
+        top: 25%;
+    }
+
+    .section1 h2{
+        font-size: 3.2rem;
+    }
+
+     .section1 h2 span{
+        font-size: 3.5rem;
+    }
+
+    .section1 p{
+        font-size: 1rem;
+    }
+
+    .section1 button{
+        font-size: 1.5rem;
+        margin-top: 20px;
+    }
+
+    .section2{
+        height: 110vh;
+    }
+
+    .section2 h2{
+        font-size: 2rem;
+    }
+
+    .section2 h2 span{
+        font-size: 2.3rem;
+    }
+
+    .section2 p{
+        font-size: 1.2rem;
+        width: 90%;
+    }
+
+    .section2 h3{
+        font-size: 1rem;
+    }
+
+    .section2 .detail{
+        display: block;
+    }
+
+    .section2 .det1{
+        scale: 1.1;
+        margin-left: 25px;
+        width: 80%;
+    }
+
+    .section2 .det1 .det p{
+        width: 60%;
+    }
+
+    .section2 .det2 .det p{
+        width: 60%;
+    }
+
+    .section2 .det2{
+        scale: 1.1;
+        margin-top: 3rem;
+        margin-left: 25px;
+        width: 80%;
+    }
+
+    .section3{
+        height: 150vh;
+    }
+
+    .section3 .secgri{
+        grid-template-rows: repeat(6, minmax(0, 1fr));
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        height: 90%;
+    }
+
+    .section3 .box{
+        width: 100%;
+    }
+
+    .section3 .icon{
+        height: 6rem;
+    }
+
+    .section4{
+        height: 180vh;
+    }
+
+    .section4 .sec4gri{
+        grid-template-rows: repeat(4, minmax(0, 1fr));
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        height: 90%;
+    }
+
+    form .intfom{
+        width: 97%;
+    }
+
+    form .intfom0{
+        width: 97%;
+        margin-bottom: 1rem;
+    }
+
+    .section5{
+        height: 130vh;
+    }
+
+    .section5 .sec5gri{
+        width: 90vw;
+    }
+
+    .section5 .ques{
+        margin-top: 3rem;
+    }
+
+    .section4 .sec4gri .box{
+        width: 100%;
+    }
+    
+}
